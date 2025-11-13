@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/dbConexionEscuela.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/biblioteca/libro.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/biblioteca/libroDAO.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/JdbcClase.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/biblioteca/dbConnection.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/biblioteca/main_biblioteca.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/tienda/dbConnection.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/tienda/Categoria.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/tienda/Producto.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/tienda/CategoriaDAO.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/tienda/ProductoDAO.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/tienda/main_tienda.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/estudiante.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/estudianteDAO.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/Calificacion.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/CalificacionDAO.java</file>
+            <file>file:/C:/Users/andyc/Documents/IES%2021/INTERFAZ%20GRAFICA/jdbc-clase/src/jdbc/clase/MainClasificaciones.java</file>
+        </group>
+    </open-files>
+</project-private>
